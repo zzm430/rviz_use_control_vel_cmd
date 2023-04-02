@@ -1,0 +1,41 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/zzms/Desktop/catkin_ws/devel/include/**",
+        "/home/zzms/catkin_navigation/devel/include/**",
+        "/home/zzms/catkin_teb/devel/include/**",
+        "/opt/senior/install/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/zzms/catkin_navigation/src/navigation/amcl/include/**",
+        "/home/zzms/catkin_navigation/src/navigation/base_local_planner/include/**",
+        "/home/zzms/catkin_navigation/src/navigation/carrot_planner/include/**",
+        "/home/zzms/catkin_navigation/src/navigation/clear_costmap_recovery/include/**",
+        "/home/zzms/catkin_navigation/src/navigation/costmap_2d/include/**",
+        "/home/zzms/catkin_navigation/src/navigation/dwa_local_planner/include/**",
+        "/home/zzms/catkin_navigation/src/navigation/global_planner/include/**",
+        "/home/zzms/catkin_navigation/src/navigation/map_server/include/**",
+        "/home/zzms/catkin_navigation/src/navigation/move_base/include/**",
+        "/home/zzms/catkin_navigation/src/navigation/move_slow_and_clear/include/**",
+        "/home/zzms/catkin_navigation/src/navigation/nav_core/include/**",
+        "/home/zzms/catkin_navigation/src/navigation/navfn/include/**",
+        "/home/zzms/catkin_navigation/src/navigation/rotate_recovery/include/**",
+        "/home/zzms/Desktop/catkin_ws/src/rviz_show_path/include/**",
+        "/home/zzms/Desktop/catkin_ws/src/teb_local_planner/include/**",
+        "/home/zzms/Desktop/catkin_ws/src/test_pid_package/include/**",
+        "/home/zzms/catkin_navigation/src/navigation/voxel_grid/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
