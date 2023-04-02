@@ -1,0 +1,2 @@
+# rviz_use_control_vel_cmd
+一个简单用来开发rviz插件的例子，功能是根据topic下发指定的值
